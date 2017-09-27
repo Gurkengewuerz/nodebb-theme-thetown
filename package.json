@@ -1,0 +1,31 @@
+{
+  "name": "nodebb-theme-dzy",
+  "version": "0.0.56",
+  "nbbpm": {
+    "compatibility": "^1.4.4"
+  },
+  "description": "Official dizzy.gg Forum Theme based on Persona",
+  "main": "theme.less",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knuschprig/nodebb-theme-dzy"
+  },
+  "keywords": [
+    "nodebb",
+    "theme",
+    "forum",
+    "bootstrap",
+    "responsive"
+  ],
+  "contributors": [
+    {
+      "name": "Fredi Beglinger",
+      "email": "fredi.beglinger@dizzy.gg",
+      "url": "https://github.com/knuschprig/"
+    }
+  ],
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+  }
+}
