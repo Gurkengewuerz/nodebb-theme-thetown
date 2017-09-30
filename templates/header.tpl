@@ -44,25 +44,24 @@
 		</section>
 		
 		<!-- Additional dizzy Menu -->
-		<!--
+		
 		<section class="menu-section" data-section="Dizzy">
 			<h3 class="menu-section-title">Dizzy</h3>
 			<ul class="menu-section-list">
 				<li>
-					<a href="https://dizzy.gg" title="Blog">
+					<a href="https://dizzy.gg" title="Home">
 						<i class="fa fa-fw fa-rss"></i>
-						<span class="visible-xs-inline">Blog</span>
+						<span class="visible-xs-inline">Home</span>
 					</a>
 				</li>
 				<li>
-					<a href="https://community.dizzy.gg" title="Community">
+					<a href="https://forum.dizzy.gg" title="Forum">
 						<i class="fa fa-fw fa-users"></i>
-						<span class="visible-xs-inline">Community</span>
+						<span class="visible-xs-inline">Forum</span>
 					</a>
 				</li>
 			</ul>
 		</section>
-		-->
 
 		<section class="menu-section" data-section="navigation">
 			<h3 class="menu-section-title">[[global:header.navigation]]</h3>
