@@ -44,7 +44,7 @@
 		</section>
 		
 		<!-- Additional dizzy Menu -->
-		<!--
+		<!-- 
 		<section class="menu-section" data-section="Dizzy">
 			<h3 class="menu-section-title">Dizzy</h3>
 			<ul class="menu-section-list">
