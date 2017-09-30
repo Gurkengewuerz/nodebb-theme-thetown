@@ -1,6 +1,6 @@
 {
   "name": "nodebb-theme-dzy",
-  "version": "0.1.1",
+  "version": "0.1.12",
   "nbbpm": {
     "compatibility": "^1.4.4"
   },
