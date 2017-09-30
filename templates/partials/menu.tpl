@@ -21,14 +21,14 @@
 			</div>
 			
 			<!-- Additional dizzy Navbar -->
-			<!--
+			
 			<nav class="dizzynav visible-sm visible-lg visible-md">
 				<ul class=" nav navbar-nav navbar-left">
-					<li><a href="https://dizzy.gg">Blog</a></li>
-					<li><a href="https://community.dizzy.gg/" class="active">Forum</a></li>
+					<li><a href="https://dizzy.gg">Home</a></li>
+					<li><a href="https://forum.dizzy.gg/" class="active">Forum</a></li>
 				</ul>
 			</nav>
-			-->
+		
 			
 			<div id="nav-dropdown" class="hidden-xs">
 				<!-- IF !maintenanceHeader -->
@@ -208,26 +208,6 @@
   						</ul>
 					</li>
 				</ul>
-				
-				<div class="menuwrapper">
-					<ul id="main-nav" class="nav navbar-nav">
-						<!-- BEGIN navigation -->
-						<!-- IF function.displayMenuItem, @index -->
-						<li class="{navigation.class}">
-							<a href="{navigation.route}" title="{navigation.title}" <!-- IF navigation.id -->id="{navigation.id}"<!-- ENDIF navigation.id --><!-- IF navigation.properties.targetBlank --> target="_blank"<!-- ENDIF navigation.properties.targetBlank -->>
-								<!-- IF navigation.iconClass -->
-								<i class="fa fa-fw {navigation.iconClass}"></i>
-								<!-- ENDIF navigation.iconClass -->
-
-								<!-- IF navigation.text -->
-								<span class="{navigation.textClass}">{navigation.text}</span>
-								<!-- ENDIF navigation.text -->
-							</a>
-						</li>
-						<!-- ENDIF function.displayMenuItem -->
-						<!-- END navigation -->
-					</ul>
-				</div>
 
 				<!-- ELSE -->
 				<ul class="nav navbar-nav navbar-right">
