@@ -24,8 +24,6 @@
 			
 			<nav class="dizzynav visible-sm visible-lg visible-md">
 				<ul class=" nav navbar-nav navbar-left">
-					<li><a href="https://dizzy.gg">Home</a></li>
-					<li><a href="https://forum.dizzy.gg/" class="active">Forum</a></li>
 				</ul>
 			</nav>
 		

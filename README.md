@@ -1,4 +1,4 @@
-Official dizzy.gg Forum Theme based on Persona
+Official TheTown Forum Theme based on dzy
 ====================
 
-Theme based on Persona
+Theme based on https://github.com/dizzyesport/nodebb-theme-dzy
