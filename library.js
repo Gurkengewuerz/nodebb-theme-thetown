@@ -1,8 +1,8 @@
 'use strict';
 
-var S = require.main.require('string');
-var meta = module.parent.require('./meta');
-var user = module.parent.require('./user');
+var striptags = require('striptags');
+var meta = require.main.require('./src/meta');
+var user = require.main.require('./src/user');
 
 var library = {};
 
@@ -29,7 +29,7 @@ library.addAdminNavigation = function(header, callback) {
 library.getTeasers = function(data, callback) {
 	data.teasers.forEach(function(teaser) {
 		if (teaser && teaser.content) {
-			teaser.content = S(teaser.content).stripTags('img').s;
+			teaser.content = striptags(teaser.content, ['img']);
 		}
 	});
 	callback(null, data);
